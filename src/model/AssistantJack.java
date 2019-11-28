@@ -18,12 +18,15 @@ public class AssistantJack {
     private int timesAsked;
     private Theory correctTheory;
 
+
     /**
      * The default constructor but will not be called from outside.
      */
     private AssistantJack() {
         this.timesAsked = 0;
         this.correctTheory = null;
+
+
     }
 
     /**

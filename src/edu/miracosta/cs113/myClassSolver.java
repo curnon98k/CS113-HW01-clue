@@ -15,6 +15,7 @@ package edu.miracosta.cs113;
  *jfhgkjfhdkgjfkghkdfgjk
  */
 
+
 import java.util.Random;
 import java.util.Scanner;
 import model.Theory;
@@ -87,3 +88,4 @@ public class myClassSolver {
     }
 
 }
+
